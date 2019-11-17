@@ -6,6 +6,9 @@
 - The dev and test datasets are under directory ```data```
 - The rewritten dev/test splits can be found under each subdirectory of ```data```
 
+## Annotation
+- All annotations on the DEV/TEST splits described in the paper can be found at https://docs.google.com/spreadsheets/d/1uPDhGzxia2T0t9WXjMDuopAtgk6CceZ1U3mrDFNI4cY/edit?usp=sharing
+
 
 ## Reference
 
