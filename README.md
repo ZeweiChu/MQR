@@ -1,5 +1,7 @@
 # MQR
 
+The is the repository for the paper [How to Ask Better Questions? A Large-Scale Multi-Domain Dataset for Rewriting Ill-Formed Questions](https://arxiv.org/abs/1911.09247)
+
 ## Train Data
 
 - The training data can be downloaded from: https://drive.google.com/drive/folders/1VZ7BusNjbulG9xYlcbGmip5Pl-Gzo8HD?usp=sharing
